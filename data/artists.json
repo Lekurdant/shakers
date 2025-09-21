@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1",
+    "name": "Julie Chevassus",
+    "type": "Résidence longue de 6 mois",
+    "description": "Julie dans son atelier. Exposition sortie de résidence – 8 Octobre 2025.",
+    "exhibition": "Exposition:  8 Octobre 2025",
+    "status": "current",
+    "image": "/uploads/artists/1758397720578-gn8n4mkrfkf.webp",
+    "bio": "Artiste plasticienne spécialisée dans la sculpture contemporaine.",
+    "website": "https://juliechevassus.com",
+    "createdAt": "2024-01-15T10:00:00Z",
+    "updatedAt": "2025-09-20T19:49:50.013Z"
+  },
+  {
+    "id": "2",
+    "name": "Camille Pamart & Marjorie Garcia",
+    "type": "Résidence binôme de 3 mois",
+    "description": "Artistes sélectionnés pour 2025",
+    "exhibition": "",
+    "status": "selected",
+    "image": "/uploads/artists/1758399439874-mh43np7esn.png",
+    "bio": "Duo d'artistes travaillant sur l'interaction entre l'art numérique et la peinture traditionnelle.",
+    "website": "",
+    "createdAt": "2024-01-20T10:00:00Z",
+    "updatedAt": "2025-09-20T20:17:23.612Z"
+  }
+]

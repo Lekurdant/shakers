@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "type": "Exposition",
+    "date": "2025-09-08",
+    "title": "Exposition sortie de résidence – Julie Chevassus",
+    "description": "Découvrez les œuvres créées par Julie Chevassus lors de sa résidence de 6 mois.",
+    "location": "Shakers Gallery",
+    "content": "Julie Chevassus présente ses dernières créations sculpturales inspirées par son séjour à Montluçon. Une exposition qui explore les liens entre l'art contemporain et le patrimoine industriel local.",
+    "image": "/uploads/news/1758398308278-zwgxxb64gnp.webp",
+    "featured": true,
+    "createdAt": "2024-01-15T10:00:00Z",
+    "updatedAt": "2025-09-20T19:58:30.281Z"
+  },
+  {
+    "id": "2",
+    "type": "Événement",
+    "date": "2025-08-13",
+    "title": "Journées du Patrimoine",
+    "description": "Participez aux Journées du Patrimoine et explorez les ateliers de Shakers.",
+    "location": "Shakers Lieux d'Effervescence",
+    "content": "À l'occasion des Journées du Patrimoine, Shakers ouvre ses portes au public pour des visites guidées des ateliers et des rencontres avec les artistes en résidence.",
+    "image": "/uploads/news/1758398757736-8tgfxpd3o2.png",
+    "featured": false,
+    "createdAt": "2024-01-20T10:00:00Z",
+    "updatedAt": "2025-09-20T20:06:05.112Z"
+  },
+  {
+    "id": "3",
+    "type": "Exposition",
+    "date": "2025-03-13",
+    "title": "Escoubilles, exposition à la Shakers Gallery des œuvres de Ferrage",
+    "description": "Découvrez l'exposition \"Escoubilles\" présentant les œuvres de Ferrage.",
+    "location": "Shakers Gallery",
+    "content": "L'artiste Ferrage présente sa série \"Escoubilles\", une exploration poétique des déchets et de leur transformation en objets d'art.",
+    "image": "/uploads/news/1758398838033-8067wdkyem.jpg",
+    "featured": false,
+    "createdAt": "2024-01-25T10:00:00Z",
+    "updatedAt": "2025-09-20T20:07:19.923Z"
+  }
+]
